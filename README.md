@@ -36,6 +36,5 @@ This project analyzes sales data to extract insights using SQL.
 ### Revenue by Region
 ![Revenue by Region](./screenshots/05_revenue_by_region.png) 
 
-![Rows Count](screenshots/01_rows_count.png)
-![Total Revenue](screenshots/02_total_revenue.png)
+
 
